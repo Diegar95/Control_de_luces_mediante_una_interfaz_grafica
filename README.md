@@ -1,1 +1,1 @@
-# Control-de-luces-mediante-una-interfaz-grafica
+# Control_de_lucesmediante_una_interfaz_grafica
