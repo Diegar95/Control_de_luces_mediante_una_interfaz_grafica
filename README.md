@@ -1,1 +1,1 @@
-# Control-de-luces-mediante-una-interfaz-gr-fica
+# Control-de-luces-mediante-una-interfaz-grafica
